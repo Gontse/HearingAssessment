@@ -1,0 +1,6 @@
+/* Hearing Screen */
+"homeScreenTitle" = "Home";
+"descriptionText" = "Please make sure your are in a quit setting before starting hearing test sessions";
+
+/*  General */
+"submitText" = "Submit";
